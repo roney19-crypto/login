@@ -1,0 +1,46 @@
+*{margin: 0; padding: 0; background: repeating-linear-gradient( 
+    138deg
+     , #14dede, transparent 100px);}
+
+
+.main{
+   
+}
+
+.log_in{
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+
+.container{
+padding: 50px;
+}
+.container h2{
+
+}
+
+input[type="text"], input[type=password]{
+    width: 100%;
+padding: 20px;
+margin: 10px 0 20px 0;
+}
+input[type="text"]:focus, input[type="password"]:focus{
+background-color: whitesmoke;
+outline: none;
+}
+.forgotpass{
+background-color: rgb(243, 111, 111);
+color: papayawhip;
+width: 15%;
+padding: 10px;
+}
+.in{
+    background-color: rgb(70, 94, 23);
+color: papayawhip;
+width: 100%;
+padding: 10px;
+margin-top: 15px;
+}
+
